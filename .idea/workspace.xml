@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ceb24642-637c-4756-b8d4-ba9fd627519c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/image/Ellipse 5.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/Group 19.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/dropdown 1.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/facebook.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/htmlacademy.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/instagram.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/left-tall-arrow.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/nav-arrow 1.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/popular-1.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/popular-2.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/popular-3.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/popular-4.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/popular-5.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/popular-6.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/right-tall-arrow.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/sort-down.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/sort-up.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/tick-big.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/twitter.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/Индикатор слайда.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/Инфо.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/raleway/raleway-800.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/rubik/rubik-400.woff2" beforeDir="false" afterPath="$PROJECT_DIR$/fonts/rubik/rubik400.woff2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/rubik/rubik-700.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/rubik/rubik-800.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="24lpQjrXSCj6hMo72EmekZ8aaxP" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="terminal" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\htmla\device\.idea" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/index.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JavaScript Debug.index.html" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ceb24642-637c-4756-b8d4-ba9fd627519c" name="Default Changelist" comment="" />
+      <created>1644215013912</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1644215013912</updated>
+      <workItem from="1644215016737" duration="14782000" />
+      <workItem from="1645093330867" duration="6950000" />
+      <workItem from="1645113604944" duration="348000" />
+      <workItem from="1645114020460" duration="162000" />
+      <workItem from="1645114237125" duration="71000" />
+      <workItem from="1645114310018" duration="71000" />
+      <workItem from="1645114397200" duration="47000" />
+      <workItem from="1645114461312" duration="10000" />
+      <workItem from="1645114473276" duration="106000" />
+      <workItem from="1645114597022" duration="280000" />
+      <workItem from="1645115038452" duration="47081000" />
+      <workItem from="1645766646930" duration="33299000" />
+      <workItem from="1646038903059" duration="4440000" />
+      <workItem from="1646044699179" duration="26766000" />
+      <workItem from="1646214671005" duration="28183000" />
+      <workItem from="1646814585001" duration="9205000" />
+      <workItem from="1646894655296" duration="21715000" />
+      <workItem from="1647150439950" duration="9071000" />
+      <workItem from="1647239627622" duration="21989000" />
+      <workItem from="1647413163037" duration="19904000" />
+      <workItem from="1647510880802" duration="4356000" />
+      <workItem from="1647577029260" duration="16249000" />
+      <workItem from="1647764751777" duration="142000" />
+      <workItem from="1647764965426" duration="115000" />
+      <workItem from="1647779798897" duration="34650000" />
+      <workItem from="1648184890816" duration="14929000" />
+      <workItem from="1648363371445" duration="285000" />
+      <workItem from="1648363661293" duration="80000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
